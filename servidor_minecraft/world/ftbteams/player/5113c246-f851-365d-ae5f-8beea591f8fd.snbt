@@ -1,0 +1,17 @@
+{
+	id: "5113c246-f851-365d-ae5f-8beea591f8fd"
+	type: "player"
+	player_name: "Crying_Prophet"
+	ranks: {
+		5113c246-f851-365d-ae5f-8beea591f8fd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Crying_Prophet"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF8F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
